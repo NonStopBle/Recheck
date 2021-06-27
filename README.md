@@ -8,3 +8,6 @@ Automatic scanning serial comport with text contains for arduino projects
 + 4 . Run recheck.exe normaly
 + 5 . Result of comport scanning in your resources folder this file is "renic_comport.dll"
 + 6 . You can get comport from renic_comport.dll with normal text loader
+
+## Why recheck is not software
++ Because recheck is not a software recheck it's a api for scanning comport
