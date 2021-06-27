@@ -1,5 +1,5 @@
 # Recheck
-Automatic scanning serial comport with text contains
+Automatic scanning serial comport with text contains for arduino projects
 
 # HOW TO USE
 + 1 . Run recheck.exe as first to create resources folder
