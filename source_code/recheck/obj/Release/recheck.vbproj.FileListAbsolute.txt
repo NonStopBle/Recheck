@@ -1,0 +1,10 @@
+D:\Users\ardty\source\repos\recheck\recheck\bin\Release\recheck.exe
+D:\Users\ardty\source\repos\recheck\recheck\bin\Release\recheck.pdb
+D:\Users\ardty\source\repos\recheck\recheck\bin\Release\recheck.xml
+D:\Users\ardty\source\repos\recheck\recheck\obj\Release\recheck.Form1.resources
+D:\Users\ardty\source\repos\recheck\recheck\obj\Release\recheck.Resources.resources
+D:\Users\ardty\source\repos\recheck\recheck\obj\Release\recheck.vbproj.GenerateResource.cache
+D:\Users\ardty\source\repos\recheck\recheck\obj\Release\recheck.vbproj.CoreCompileInputs.cache
+D:\Users\ardty\source\repos\recheck\recheck\obj\Release\recheck.exe
+D:\Users\ardty\source\repos\recheck\recheck\obj\Release\recheck.xml
+D:\Users\ardty\source\repos\recheck\recheck\obj\Release\recheck.pdb
